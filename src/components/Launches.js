@@ -48,7 +48,7 @@ function Launches() {
                 </tr>
                 <tr>
                     <td className="title">YouTube</td>
-                    <td className="value"><a href="{ links.video_link }">Voir le lancement { index }</a></td>
+                    <td className="value"><a href={ links.video_link }>Voir le lancement { index }</a></td>
                 </tr>
             </table>
 
